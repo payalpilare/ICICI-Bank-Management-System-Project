@@ -1,3 +1,3 @@
 # ICICI-Bank-Management-System-Project
-Creatingadatabasefromscratch.And analyzing the
+Creating a database from scratch.And analyzing the
  data and fetching the required data.
